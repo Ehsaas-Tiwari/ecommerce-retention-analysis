@@ -77,3 +77,5 @@ The visualization included in this PR shows:
 - `analysis.py` → Python analysis & visualization script
 - `retention_trend.png` → Retention trend vs benchmark graph
 - `README.md` → Full data story and strategic narrative
+- Pull request prepared for final submission.
+
